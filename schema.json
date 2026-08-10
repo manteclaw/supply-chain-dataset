@@ -1,0 +1,58 @@
+{
+  "dataset_name": "Supply Chain Logistics",
+  "version": "1.0.0",
+  "created": "2026-08-10T00:06:28.444127Z",
+  "total_records": 3000,
+  "fields": [
+    {
+      "name": "shipment_id",
+      "type": "str",
+      "example": "SHP-00001"
+    },
+    {
+      "name": "origin_city",
+      "type": "str",
+      "example": "Mesa"
+    },
+    {
+      "name": "destination_city",
+      "type": "str",
+      "example": "Washington"
+    },
+    {
+      "name": "carrier",
+      "type": "str",
+      "example": "DHL"
+    },
+    {
+      "name": "distance_miles",
+      "type": "int",
+      "example": 884
+    },
+    {
+      "name": "weather_conditions",
+      "type": "str",
+      "example": "Rain"
+    },
+    {
+      "name": "delay_hours",
+      "type": "int",
+      "example": 6
+    },
+    {
+      "name": "shipping_cost",
+      "type": "float",
+      "example": 111.03
+    },
+    {
+      "name": "delivery_status",
+      "type": "str",
+      "example": "Late"
+    },
+    {
+      "name": "shipment_date",
+      "type": "str",
+      "example": "2026-07-26"
+    }
+  ]
+}
