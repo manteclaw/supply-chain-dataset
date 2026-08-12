@@ -1,7 +1,7 @@
 {
   "dataset_name": "Supply Chain Logistics",
   "version": "1.0.0",
-  "created": "2026-08-10T00:06:28.444127Z",
+  "created": "2026-08-12T00:05:52.701492Z",
   "total_records": 3000,
   "fields": [
     {
@@ -12,22 +12,22 @@
     {
       "name": "origin_city",
       "type": "str",
-      "example": "Mesa"
+      "example": "Louisville"
     },
     {
       "name": "destination_city",
       "type": "str",
-      "example": "Washington"
+      "example": "Omaha"
     },
     {
       "name": "carrier",
       "type": "str",
-      "example": "DHL"
+      "example": "FedEx"
     },
     {
       "name": "distance_miles",
       "type": "int",
-      "example": 884
+      "example": 2837
     },
     {
       "name": "weather_conditions",
@@ -37,12 +37,12 @@
     {
       "name": "delay_hours",
       "type": "int",
-      "example": 6
+      "example": 10
     },
     {
       "name": "shipping_cost",
       "type": "float",
-      "example": 111.03
+      "example": 465.05
     },
     {
       "name": "delivery_status",
@@ -52,7 +52,7 @@
     {
       "name": "shipment_date",
       "type": "str",
-      "example": "2026-07-26"
+      "example": "2026-07-29"
     }
   ]
 }
