@@ -1,30 +1,162 @@
 [
   {
     "shipment_id": "SHP-00001",
-    "origin_city": "Mesa",
-    "destination_city": "Washington",
-    "carrier": "DHL",
-    "distance_miles": 884,
+    "origin_city": "Louisville",
+    "destination_city": "Omaha",
+    "carrier": "FedEx",
+    "distance_miles": 2837,
     "weather_conditions": "Rain",
-    "delay_hours": 6,
-    "shipping_cost": 111.03,
+    "delay_hours": 10,
+    "shipping_cost": 465.05,
     "delivery_status": "Late",
-    "shipment_date": "2026-07-26"
+    "shipment_date": "2026-07-29"
   },
   {
     "shipment_id": "SHP-00002",
-    "origin_city": "Chicago",
-    "destination_city": "Baltimore",
+    "origin_city": "Indianapolis",
+    "destination_city": "Jacksonville",
     "carrier": "Old Dominion",
-    "distance_miles": 619,
+    "distance_miles": 870,
+    "weather_conditions": "Storm",
+    "delay_hours": 50,
+    "shipping_cost": 206.76,
+    "delivery_status": "Late",
+    "shipment_date": "2026-07-31"
+  },
+  {
+    "shipment_id": "SHP-00003",
+    "origin_city": "Baltimore",
+    "destination_city": "Miami",
+    "carrier": "Old Dominion",
+    "distance_miles": 712,
+    "weather_conditions": "Fog",
+    "delay_hours": 5,
+    "shipping_cost": 165.33,
+    "delivery_status": "On Time",
+    "shipment_date": "2026-06-02"
+  },
+  {
+    "shipment_id": "SHP-00004",
+    "origin_city": "Omaha",
+    "destination_city": "Kansas City",
+    "carrier": "XPO Logistics",
+    "distance_miles": 1825,
+    "weather_conditions": "Storm",
+    "delay_hours": 70,
+    "shipping_cost": 461.93,
+    "delivery_status": "Late",
+    "shipment_date": "2026-07-21"
+  },
+  {
+    "shipment_id": "SHP-00005",
+    "origin_city": "Long Beach",
+    "destination_city": "Raleigh",
+    "carrier": "UPS",
+    "distance_miles": 2369,
+    "weather_conditions": "Windy",
+    "delay_hours": 9,
+    "shipping_cost": 507.97,
+    "delivery_status": "Late",
+    "shipment_date": "2026-07-20"
+  },
+  {
+    "shipment_id": "SHP-00006",
+    "origin_city": "San Diego",
+    "destination_city": "Jacksonville",
+    "carrier": "Old Dominion",
+    "distance_miles": 1010,
     "weather_conditions": "Clear",
-    "delay_hours": 1,
-    "shipping_cost": 149.68,
+    "delay_hours": 2,
+    "shipping_cost": 64.16,
+    "delivery_status": "On Time",
+    "shipment_date": "2026-07-12"
+  },
+  {
+    "shipment_id": "SHP-00007",
+    "origin_city": "Mesa",
+    "destination_city": "Las Vegas",
+    "carrier": "USPS",
+    "distance_miles": 941,
+    "weather_conditions": "Rain",
+    "delay_hours": 8,
+    "shipping_cost": 51.62,
+    "delivery_status": "Late",
+    "shipment_date": "2026-07-22"
+  },
+  {
+    "shipment_id": "SHP-00008",
+    "origin_city": "Louisville",
+    "destination_city": "Baltimore",
+    "carrier": "USPS",
+    "distance_miles": 2104,
+    "weather_conditions": "Storm",
+    "delay_hours": 37,
+    "shipping_cost": 150.61,
+    "delivery_status": "Late",
+    "shipment_date": "2026-07-22"
+  },
+  {
+    "shipment_id": "SHP-00009",
+    "origin_city": "Nashville",
+    "destination_city": "Philadelphia",
+    "carrier": "Old Dominion",
+    "distance_miles": 1298,
+    "weather_conditions": "Storm",
+    "delay_hours": 59,
+    "shipping_cost": 338.88,
+    "delivery_status": "Late",
+    "shipment_date": "2026-06-11"
+  },
+  {
+    "shipment_id": "SHP-00010",
+    "origin_city": "Los Angeles",
+    "destination_city": "Detroit",
+    "carrier": "USPS",
+    "distance_miles": 1498,
+    "weather_conditions": "Fog",
+    "delay_hours": 6,
+    "shipping_cost": 404.68,
+    "delivery_status": "Late",
+    "shipment_date": "2026-06-06"
+  },
+  {
+    "shipment_id": "SHP-00011",
+    "origin_city": "Atlanta",
+    "destination_city": "Miami",
+    "carrier": "XPO Logistics",
+    "distance_miles": 2285,
+    "weather_conditions": "Snow",
+    "delay_hours": 40,
+    "shipping_cost": 535.81,
+    "delivery_status": "Late",
+    "shipment_date": "2026-06-21"
+  },
+  {
+    "shipment_id": "SHP-00012",
+    "origin_city": "Fort Worth",
+    "destination_city": "San Antonio",
+    "carrier": "XPO Logistics",
+    "distance_miles": 1122,
+    "weather_conditions": "Snow",
+    "delay_hours": 24,
+    "shipping_cost": 417.99,
+    "delivery_status": "Late",
+    "shipment_date": "2026-06-06"
+  },
+  {
+    "shipment_id": "SHP-00013",
+    "origin_city": "Baltimore",
+    "destination_city": "Dallas",
+    "carrier": "Schneider",
+    "distance_miles": 2682,
+    "weather_conditions": "Clear",
+    "delay_hours": 5,
+    "shipping_cost": 159.68,
     "delivery_status": "On Time",
     "shipment_date": "2026-06-15"
   },
   {
-    "shipment_id": "SHP-00003",
+    "shipment_id": "SHP-00014",
     "origin_city": "Boston",
     "destination_city": "San Diego",
     "carrier": "Old Dominion",
@@ -36,7 +168,7 @@
     "shipment_date": "2026-07-05"
   },
   {
-    "shipment_id": "SHP-00004",
+    "shipment_id": "SHP-00015",
     "origin_city": "Tucson",
     "destination_city": "Miami",
     "carrier": "Old Dominion",
@@ -48,7 +180,7 @@
     "shipment_date": "2026-07-09"
   },
   {
-    "shipment_id": "SHP-00005",
+    "shipment_id": "SHP-00016",
     "origin_city": "Milwaukee",
     "destination_city": "Dallas",
     "carrier": "Old Dominion",
@@ -60,7 +192,7 @@
     "shipment_date": "2026-07-08"
   },
   {
-    "shipment_id": "SHP-00006",
+    "shipment_id": "SHP-00017",
     "origin_city": "Dallas",
     "destination_city": "San Francisco",
     "carrier": "XPO Logistics",
@@ -72,7 +204,7 @@
     "shipment_date": "2026-07-22"
   },
   {
-    "shipment_id": "SHP-00007",
+    "shipment_id": "SHP-00018",
     "origin_city": "Mesa",
     "destination_city": "Oakland",
     "carrier": "Schneider",
@@ -84,7 +216,7 @@
     "shipment_date": "2026-06-14"
   },
   {
-    "shipment_id": "SHP-00008",
+    "shipment_id": "SHP-00019",
     "origin_city": "Austin",
     "destination_city": "San Jose",
     "carrier": "Schneider",
@@ -96,7 +228,7 @@
     "shipment_date": "2026-06-02"
   },
   {
-    "shipment_id": "SHP-00009",
+    "shipment_id": "SHP-00020",
     "origin_city": "Raleigh",
     "destination_city": "Albuquerque",
     "carrier": "Old Dominion",
@@ -106,137 +238,5 @@
     "shipping_cost": 428.04,
     "delivery_status": "On Time",
     "shipment_date": "2026-06-10"
-  },
-  {
-    "shipment_id": "SHP-00010",
-    "origin_city": "Tucson",
-    "destination_city": "Detroit",
-    "carrier": "UPS",
-    "distance_miles": 2709,
-    "weather_conditions": "Rain",
-    "delay_hours": 8,
-    "shipping_cost": 445.11,
-    "delivery_status": "Late",
-    "shipment_date": "2026-07-31"
-  },
-  {
-    "shipment_id": "SHP-00011",
-    "origin_city": "New York",
-    "destination_city": "Kansas City",
-    "carrier": "FedEx",
-    "distance_miles": 1644,
-    "weather_conditions": "Snow",
-    "delay_hours": 30,
-    "shipping_cost": 356.92,
-    "delivery_status": "Late",
-    "shipment_date": "2026-07-30"
-  },
-  {
-    "shipment_id": "SHP-00012",
-    "origin_city": "Philadelphia",
-    "destination_city": "Fresno",
-    "carrier": "FedEx",
-    "distance_miles": 616,
-    "weather_conditions": "Windy",
-    "delay_hours": 3,
-    "shipping_cost": 34.53,
-    "delivery_status": "On Time",
-    "shipment_date": "2026-07-14"
-  },
-  {
-    "shipment_id": "SHP-00013",
-    "origin_city": "Oklahoma City",
-    "destination_city": "Long Beach",
-    "carrier": "DHL",
-    "distance_miles": 1752,
-    "weather_conditions": "Fog",
-    "delay_hours": 7,
-    "shipping_cost": 480.14,
-    "delivery_status": "Late",
-    "shipment_date": "2026-08-04"
-  },
-  {
-    "shipment_id": "SHP-00014",
-    "origin_city": "Charlotte",
-    "destination_city": "Omaha",
-    "carrier": "XPO Logistics",
-    "distance_miles": 1240,
-    "weather_conditions": "Windy",
-    "delay_hours": 8,
-    "shipping_cost": 244.69,
-    "delivery_status": "Late",
-    "shipment_date": "2026-06-28"
-  },
-  {
-    "shipment_id": "SHP-00015",
-    "origin_city": "Los Angeles",
-    "destination_city": "Colorado Springs",
-    "carrier": "FedEx",
-    "distance_miles": 2568,
-    "weather_conditions": "Rain",
-    "delay_hours": 17,
-    "shipping_cost": 230.05,
-    "delivery_status": "Late",
-    "shipment_date": "2026-07-19"
-  },
-  {
-    "shipment_id": "SHP-00016",
-    "origin_city": "Baltimore",
-    "destination_city": "Fresno",
-    "carrier": "UPS",
-    "distance_miles": 410,
-    "weather_conditions": "Fog",
-    "delay_hours": 4,
-    "shipping_cost": 387.24,
-    "delivery_status": "On Time",
-    "shipment_date": "2026-08-05"
-  },
-  {
-    "shipment_id": "SHP-00017",
-    "origin_city": "Miami",
-    "destination_city": "Dallas",
-    "carrier": "UPS",
-    "distance_miles": 920,
-    "weather_conditions": "Snow",
-    "delay_hours": 26,
-    "shipping_cost": 235.68,
-    "delivery_status": "Late",
-    "shipment_date": "2026-07-28"
-  },
-  {
-    "shipment_id": "SHP-00018",
-    "origin_city": "Omaha",
-    "destination_city": "Long Beach",
-    "carrier": "Old Dominion",
-    "distance_miles": 917,
-    "weather_conditions": "Snow",
-    "delay_hours": 39,
-    "shipping_cost": 265.41,
-    "delivery_status": "Late",
-    "shipment_date": "2026-07-15"
-  },
-  {
-    "shipment_id": "SHP-00019",
-    "origin_city": "Jacksonville",
-    "destination_city": "San Diego",
-    "carrier": "XPO Logistics",
-    "distance_miles": 2790,
-    "weather_conditions": "Fog",
-    "delay_hours": 10,
-    "shipping_cost": 179.89,
-    "delivery_status": "Late",
-    "shipment_date": "2026-06-10"
-  },
-  {
-    "shipment_id": "SHP-00020",
-    "origin_city": "Boston",
-    "destination_city": "Seattle",
-    "carrier": "UPS",
-    "distance_miles": 217,
-    "weather_conditions": "Snow",
-    "delay_hours": 41,
-    "shipping_cost": 549.14,
-    "delivery_status": "Lost",
-    "shipment_date": "2026-07-22"
   }
 ]
